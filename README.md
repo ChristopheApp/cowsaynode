@@ -1,0 +1,2 @@
+# cowsaynode
+A JavaScript project
